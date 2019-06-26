@@ -16,6 +16,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void abc(){
         int a = 1-3;
+
+        int ii= 2+3;
+        int iii= ii+a;
     }
 
 }
